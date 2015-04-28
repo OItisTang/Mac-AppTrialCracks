@@ -26,11 +26,9 @@ RetryFlexiglass
 
 
 RetryiMindmap
-	iMindmap7 is out, a lot better than iMindmap6
+	iMindmap8 is out
 
-	The crack method:
-	Win7: del /F /Q "C:\Users\All Users\JSoft\.mm_meta7
-	Mac: rm /Library/Application\ Support/JSoft/.mm_meta7/*
+	The crack method for Mac: rm /Library/Application\ Support/JSoft/.mm_meta8/*
 
 
 RetrySketch: Sketch 3 trial workaround

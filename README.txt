@@ -26,9 +26,9 @@ RetryFlexiglass
 
 
 RetryiMindmap
-	iMindmap8 is out
+	iMindmap9 is out
 
-	The crack method for Mac: rm /Library/Application\ Support/JSoft/.mm_meta8/*
+	The crack method for Mac: rm /Library/Application\ Support/JSoft/.mm_meta9/*
 
 
 RetrySketch: Sketch 3 trial workaround
